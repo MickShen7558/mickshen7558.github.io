@@ -1,0 +1,6 @@
+@article{shen2024solidgs,
+  title={Solidgs: Consolidating gaussian surfel splatting for sparse-view surface reconstruction},
+  author={Shen, Zhuowen and Liu, Yuan and Chen, Zhang and Li, Zhong and Wang, Jiepeng and Liang, Yongqing and Yu, Zhengming and Zhang, Jingdong and Xu, Yi and Schaefer, Scott and others},
+  journal={arXiv preprint arXiv:2412.15400},
+  year={2024}
+}
